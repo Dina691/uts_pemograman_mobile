@@ -32,7 +32,7 @@ class _HalamanUtamaState extends State<HalamanUtama> {
     'assets/gajah.jfif',
     'assets/jerapah.jfif',
     'assets/kucing.jfif',
-    'assets/kukupupu.jfif',
+    'assets/kupukupu.jfif',
   ];
 
   int gambarSekarang = 0;
